@@ -6,7 +6,7 @@ Developer • Performance Engineering • Windows Optimization • Game Tools
 
 <p align="center">
   <a href="https://github.com/CRTYPUBG">
-    <img src="https://komarev.com/ghpvc/?username=crtyydk-1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=CRTYPUBG&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
 
@@ -158,21 +158,21 @@ Software Development
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=crtyydk-1&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=CRTYPUBG&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Statistics"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=crtyydk-1&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRTYPUBG&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=crtyydk-1&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=CRTYPUBG&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
