@@ -51,11 +51,11 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=crtyydk-1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=crtyydk-1&hide_border=true&background=142706&border=22540c&ring=67d117&fire=ba9012&currStreakNum=f3f6bd&sideNums=e3d75b&currStreakLabel=78b01a&sideLabels=3c8310&dates=595109" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crtyydk-1&theme=react-dark&hide_border=true" alt="Contribution Activity Graph" width="95%"/>
+  <img src="https://github-activity.crty-dev.com/graph?username=crtyydk-1&theme=react-dark&hide_border=true" alt="Contribution Activity Graph" width="95%"/>
 </p>
 
 ---
