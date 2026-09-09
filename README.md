@@ -5,8 +5,8 @@ Developer • Performance Engineering • Windows Optimization • Game Tools
 </h3>
 
 <p align="center">
-  <a href="https://github.com/CRTYPUBG">
-    <img src="https://komarev.com/ghpvc/?username=CRTYPUBG&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/CRTYYDK-1">
+    <img src="https://komarev.com/ghpvc/?username=CRTYYDK-1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
 
@@ -158,22 +158,33 @@ Software Development
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=CRTYPUBG&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=CRTYYDK-1&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Statistics"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRTYPUBG&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRTYYDK-1&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=CRTYPUBG&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=CRTYYDK-1&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/crtyydk-1/crtyydk-1/output/github-snake.svg"
+    alt="Contribution snake animation"
   />
 </p>
 
@@ -182,7 +193,7 @@ Software Development
 ## Connect
 
 <p align="left">
-<a href="https://github.com/CRTYPUBG" target="_blank">
+<a href="https://github.com/CRTYYDK-1" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
 </a>
 
