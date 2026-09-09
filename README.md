@@ -46,8 +46,8 @@
 ---
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crtyydk-1&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=crtyydk-1&show_icons=true&theme=tokyonight&hide_border=true" alt="CRTY PUBG's GitHub Stats"/>
+  <img width="49%" src="https://github-stats.crty-dev.com/api/top-langs/?username=crtyydk-1&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img width="49%" src="https://github-stats.crty-dev.com/api?username=crtyydk-1&show_icons=true&theme=tokyonight&hide_border=true" alt="CRTY PUBG's GitHub Stats"/>
 </p>
 
 <p align="center">
@@ -56,6 +56,15 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=crtyydk-1&theme=react-dark&hide_border=true" alt="Contribution Activity Graph" width="95%"/>
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/crtyydk-1/crtyydk-1/output/github-snake.svg"
+    alt="Contribution snake animation"
+  />
 </p>
 
 ---
