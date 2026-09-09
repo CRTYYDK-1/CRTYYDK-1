@@ -10,7 +10,7 @@
 
 - 🛠️ &nbsp;I'm currently working on **PUBG Mobile GameLoop optimization tools**
 - 🎮 &nbsp;Ask me about **PUBG Mobile, GameLoop, Windows performance tuning**
-- 🎬 &nbsp;I also make content on my YouTube channel **AXIOM**
+- 🎬 &nbsp;I also make content on my YouTube channel **CRTY PUBG**
 - 📫 &nbsp;How to reach me: **[@w.kayrax on Instagram](https://www.instagram.com/w.kayrax)**
 
 <h3>Connect with me:</h3>
@@ -18,10 +18,10 @@
 <a href="https://github.com/crtyydk-1" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35" alt="GitHub"/>
 </a>
-<a href="https://www.youtube.com/@UClKJZQ785wnvIwJnY7jQaUQ" target="_blank">
+<a href="https://www.youtube.com/@CRTYPUBGM_/videos" target="_blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" width="35" height="35" alt="YouTube"/>
 </a>
-<a href="https://instagram.com/yasindevec1" target="_blank">
+<a href="https://www.instagram.com/w.kayrax" target="_blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="35" height="35" alt="Instagram"/>
 </a>
 </p>
