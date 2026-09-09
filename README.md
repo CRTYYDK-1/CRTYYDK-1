@@ -11,7 +11,7 @@
 - 🛠️ &nbsp;I'm currently working on **PUBG Mobile GameLoop optimization tools**
 - 🎮 &nbsp;Ask me about **PUBG Mobile, GameLoop, Windows performance tuning**
 - 🎬 &nbsp;I also make content on my YouTube channel **AXIOM**
-- 📫 &nbsp;How to reach me: **[@yasindevec1 on Instagram](https://instagram.com/yasindevec1)**
+- 📫 &nbsp;How to reach me: **[@w.kayrax on Instagram](https://www.instagram.com/w.kayrax)**
 
 <h3>Connect with me:</h3>
 <p left="left">
